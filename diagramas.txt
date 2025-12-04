@@ -1,0 +1,8 @@
+[INICIO]
+↓
+[Menú Principal]
+↓
+[1. Agregar estudiante] → [Validar] → [Guardar]
+[2. Agregar calificación] → [Seleccionar] → [Validar] → [Guardar]
+[3. Ver promedios] → [Calcular] → [Mostrar]
+[4. Salir] → [FIN]
