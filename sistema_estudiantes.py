@@ -113,5 +113,5 @@ def menu_principal():
 
 # Iniciar programa
 if __name__ == "__main__":
-    print("🚀 SISTEMA INICIADO - By [Tu Nombre]")
+    print("🚀 SISTEMA INICIADO - By Brittany Sedamanos")
     menu_principal()
