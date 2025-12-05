@@ -1,6 +1,6 @@
 """
 SISTEMA DE GESTIÓN DE ESTUDIANTES
-Autor: [Tu Nombre]
+Autor: Brittany Sedamanos- CIB 1A
 Implementa: Estructuras lógicas y repetitivas
 """
 
